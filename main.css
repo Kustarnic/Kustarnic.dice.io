@@ -34,21 +34,21 @@ header {
 	color: #0078D7;
 	background-color: #fff;
 	text-decoration: none;
-	padding: 10px 40px;
+	padding: 5px 10px;
 	border-radius: 15px;
 	box-shadow: 4px 4px #0078D7;
-	transition-duration: 1s;
+	transition-duration: 0.5s;
 	border: 3px solid #0078D7;
 }
 
 .button a:hover {
-	font-size: 45px;
+	font-size: 40px;
 	font-family: 'Comfortaa', sans-serif;
 	color: #ccc;
 	background-color: #0078D7;
 	text-decoration: none;
-	padding: 10px 40px;
+	padding: 5px 50px;
 	border-radius: 15px;
 	box-shadow: 0px 0px #0078D7;
-	transition-duration: 1s;
+	transition-duration: 0.5s;
 }
